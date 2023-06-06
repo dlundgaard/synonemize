@@ -1,0 +1,9 @@
+body:
+  - type: checkbox
+    attributes:
+      name: overwrite_existing
+      label: "Overwrite existing file?"
+      defaultValue: true
+      options:
+        - true
+        - false

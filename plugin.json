@@ -1,0 +1,12 @@
+{
+    "ID": "xxxxxxxx-xxxe-xxxx-xxxx-xxxxxxxxxxxx",
+    "ActionKeyword": "sy",
+    "Name": "Synonemize",
+    "Description": "Tool for fetching synonyms.",
+    "Author": "DL",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/dlundgaard",
+    "IcoPath": "assets/spellcheck.png",
+    "ExecuteFileName": "main.py"
+}
